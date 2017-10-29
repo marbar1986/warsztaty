@@ -1,0 +1,24 @@
+{
+  "name": "warsztaty",
+  "version": "1.0.0",
+  "description": "Warsztaty CodersLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marbar1986/warsztaty.git"
+  },
+  "author": "marbar1986",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/marbar1986/warsztaty/issues"
+  },
+  "homepage": "https://github.com/marbar1986/warsztaty#readme"
+}
