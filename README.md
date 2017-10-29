@@ -7,4 +7,4 @@ użyte technologie:
 - Gulp
 
 Pierwsza prosta strona, próba proporcjonalnego odwzorowania jej wyglądu.
-Bez odnośników do linków oraz walicdacji formularzy.
+Bez odnośników do linków oraz walidacji formularzy.
